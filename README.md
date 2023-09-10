@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<span style="color:#0000">Nome </span>
+<span style="color:#0000">@lucasvpessoafranca </span>
  <img src="https://img.shields.io/static/v1?label=Tipo&message=Desafio&color=8257E5&labelColor=000000" alt="Desafio" />
 </p>
 
